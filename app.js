@@ -1,4 +1,4 @@
-const dureeCreneau = 200;
+const dureeCreneau = 20;
 let nombre = 0;
 const duree = document.getElementById('duree');
 const bilan = document.getElementById('bilan');
